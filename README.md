@@ -16,4 +16,14 @@ um carregamento inicial do usuário que irá efetuar as compras dos produtos, e 
 
 Estou usando para parte de persistência a o Spring Data conforme encontra-se como dependência no POM do projeto.
 
+##########################################################################################
+# Como rodar
+##########################################################################################
 
+Vá na pasta do projeto principal onde tem um arquivo pom.xml. 
+Nesta pasta basta abrir uma tela de comando e executar o seguinte: mvn spring-boot:run;
+
+Isso vai fazer com que a aplicação suba.
+
+Assim que ela estiver no ar, pode rodar a parte cliente, conforme readme.md do cliente, ou usar de modo simples a 
+api do swagger digitando a seguinte URL no browser: localhost:8080/swagger-ui.html
