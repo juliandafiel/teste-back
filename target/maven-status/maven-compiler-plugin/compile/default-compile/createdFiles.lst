@@ -1,0 +1,7 @@
+br/com/finch/config/validacao/ErroDeValidacaoHandler.class
+br/com/finch/FinchApplication.class
+br/com/finch/modelo/Usuario.class
+br/com/finch/controller/UsuarioController.class
+br/com/finch/controller/dto/TokenDto.class
+br/com/finch/config/validacao/ErroDeFormularioDto.class
+br/com/finch/repository/UsuarioRepository.class

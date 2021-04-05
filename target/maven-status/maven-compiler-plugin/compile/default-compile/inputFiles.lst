@@ -1,0 +1,16 @@
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/modelo/Usuario.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/repository/ProdutoRepository.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/FinchApplication.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/controller/dto/ProdutoDto.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/repository/CompraRepository.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/controller/dto/UsuarioDto.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/modelo/Compra.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/config/validacao/ErroDeFormularioDto.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/controller/UsuarioController.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/repository/UsuarioRepository.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/modelo/Produto.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/controller/CompraController.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/config/validacao/ErroDeValidacaoHandler.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/controller/dto/ProdutoCompraDTO.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/controller/dto/TokenDto.java
+/home/jaco/Projetos-pessoais/finch-project/src/main/java/br/com/finch/controller/ProdutoController.java
